@@ -15,3 +15,5 @@ reference
 XAMPP Apache + MariaDB + PHP + PerlのMariaDBはMySQLとほぼ同じで、  
 MySQLがOracle買収後にMySQLの開発元が立ち上げたもの  
 
+<img src="https://evofan.github.io/test_php7_easy_sample/chap2/pic_xampp.jpg" width="50%">  
+
