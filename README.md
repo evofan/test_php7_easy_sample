@@ -17,3 +17,7 @@ MySQLがOracle買収後にMySQLの開発元が立ち上げたもの
 
 <img src="https://evofan.github.io/test_php7_easy_sample/chap2/pic_xampp.jpg" width="50%">  
 
+**PHP: date - Manual**  
+[https://www.php.net/manual/ja/function.date.php](https://www.php.net/manual/ja/function.date.php)  
+
+
